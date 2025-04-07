@@ -93,7 +93,7 @@ I love building scalable, efficient, and reliable systems using the power of clo
 
 <!-- Fun animated banner (Optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=DevOps+Engineer+%7C+Cloud+Lover+%7C+Automation+Enthusiast;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Coder+%7C+DevOps+Engineer;Coder+%7C+Cloud+Lover+%7C+Automation;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 ---
